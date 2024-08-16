@@ -1,0 +1,4 @@
+input[type="checkbox"] {
+    accent-color: rgb(79,70,229); /* Change the checkbox color in modern browsers */
+    transition: accent-color 0.5s ease;
+  }
